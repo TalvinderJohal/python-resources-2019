@@ -1,3 +1,9 @@
+# 3 Resources i have used this week
+# 1- Stackoverflow
+# 2- Codewars
+# 3- Google
+
+
 # Python-Resources-2019
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
